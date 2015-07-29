@@ -16,7 +16,7 @@
 | 13 | Basma Ayman Mohamed Mohamed Emara             |      |
 | 14 | Bahie Eldeen Sameer Bahie Eldeen Shehab       |      |
 | 15 | Hassan Abdelmoety Hassan Abdelmoety           |      |
-| 16 | Hassan Mohamed Hassan Ahmad Elkhatib          |      |
+| 16 | Hassan Mohamed Hassan Ahmad Elkhatib          | Yes  |
 | 17 | Hanan Ahmad Elsayed Abdullah Othman           | Yes  |
 | 18 | Khaled Ahmad Zaky Elesh                       |      |
 | 19 | Ramy Wagdy Sobhy Rezqallah                    |      |
